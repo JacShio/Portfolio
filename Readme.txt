@@ -1,4 +1,5 @@
-Thanks for downloading this template!
+Este projeto foi feito baseado no framework Bootstrap e personalizado para uso pessoal
+
 
 Template Name: iPortfolio
 Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
